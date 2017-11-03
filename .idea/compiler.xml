@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cl-common" />
+        <module name="cl-manager-dao" />
+        <module name="cl-manager-interface" />
+        <module name="cl-manager-pojo" />
+        <module name="cl-manager-service" />
+        <module name="cl-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cl-common" target="1.7" />
+      <module name="cl-manager" target="1.7" />
+      <module name="cl-manager-dao" target="1.7" />
+      <module name="cl-manager-interface" target="1.7" />
+      <module name="cl-manager-pojo" target="1.7" />
+      <module name="cl-manager-service" target="1.7" />
+      <module name="cl-manager-web" target="1.7" />
+      <module name="cl-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

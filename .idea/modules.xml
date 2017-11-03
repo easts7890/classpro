@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cl-common/cl-common.iml" filepath="$PROJECT_DIR$/cl-common/cl-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cl-manager/cl-manager.iml" filepath="$PROJECT_DIR$/cl-manager/cl-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cl-manager/cl-manager-dao/cl-manager-dao.iml" filepath="$PROJECT_DIR$/cl-manager/cl-manager-dao/cl-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cl-manager/cl-manager-interface/cl-manager-interface.iml" filepath="$PROJECT_DIR$/cl-manager/cl-manager-interface/cl-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cl-manager/cl-manager-pojo/cl-manager-pojo.iml" filepath="$PROJECT_DIR$/cl-manager/cl-manager-pojo/cl-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cl-manager/cl-manager-service/cl-manager-service.iml" filepath="$PROJECT_DIR$/cl-manager/cl-manager-service/cl-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cl-manager/cl-manager-web/cl-manager-web.iml" filepath="$PROJECT_DIR$/cl-manager/cl-manager-web/cl-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cl-parent/cl-parent.iml" filepath="$PROJECT_DIR$/cl-parent/cl-parent.iml" />
+    </modules>
+  </component>
+</project>

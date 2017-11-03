@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cl-manager-web:war">
+    <output-path>$PROJECT_DIR$/cl-manager/cl-manager-web/target</output-path>
+    <root id="archive" name="cl-manager-web.war">
+      <element id="artifact" artifact-name="cl-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>
